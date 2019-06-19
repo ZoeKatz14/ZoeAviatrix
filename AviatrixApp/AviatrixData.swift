@@ -16,7 +16,6 @@ class AviatrixData {
         "Denver" : 1.65,
         "SLC" : 1.95
     ]
-    
     var knownDistances = [
         "St. Louis" : [
             "St. Louis" : 0,
